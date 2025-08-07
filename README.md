@@ -1,2 +1,2 @@
-# ChengXin-Auto-money
-ChengXin Auto money
+#  尘星自动刷钱
+基于adb服务
